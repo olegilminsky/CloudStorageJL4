@@ -68,11 +68,17 @@ public class NioTelnetServer {
 
         // TODO
         // touch [filename] - создание файла
+
         // mkdir [dirname] - создание директории
+
         // cd [path] - перемещение по каталогу (.. | ~ )
+
         // rm [filename | dirname] - удаление файла или папки
+
         // copy [src] [target] - копирование файла или папки
+
         // cat [filename] - просмотр содержимого
+
         // вывод nickname в начале строки
 
         // NIO
